@@ -1,8 +1,8 @@
 # Master-Manual-for-MSB-Compliance-Audit
 A fully comprehensive MSB Compliance Audit Manual featuring 105 sections, detailed checklists, vital documentation requirements, and advanced risk assessment tools. Aligns with AML/CFT, KYC, sanctions, and transaction monitoring standards under U.S. federal laws &amp; global regulatory frameworks.
-MSB Compliance Audit Manual
 
-Introduction to STRs The authors of this paper are focused on primarily discussing the StructureTRRs, or simply STRs because they are the primary types of studies run in the United States.
+MSB Compliance Audit Manual:-
+
 This MSB Compliance Audit Manual is intended to be a practical and regulatory **toolkit** and **compass** to help the auditors perform effective, standardized and risk-based compliance audit with reference to the guidance of both the **U.S federal laws** and the global standards on AML/CFT.
 
 Key Features
