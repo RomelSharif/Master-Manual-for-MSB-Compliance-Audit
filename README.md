@@ -40,6 +40,7 @@ Author: Md Romel Sharif
 LinkedIn: https://www.linkedin.com/in/md-romel-sharif/
 Email:romel.sharif@gmail.com
 
+[MSB Compliance Manual Cover](cover.png)
 
 cover page
 (https://github.com/user-<img width="2970" height="2100" alt="Document Checklist for MSB Compliance Audit (2970 x 2100 px)" src="https://github.com/user-attachments/assets/3aa01626-4c02-40f4-9de8-fb6643d12f78" />
